@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://wil-byte.github.io/jst_wils.io",
-  "description": "A customizable React portfolio template built by Wil-byte",
+  "description": "A customizable React portfolio for Wil-byte",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
